@@ -37,6 +37,22 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Datasets
+*.csv
+*.xlsx
+*.xls
+*.xlsb
+*.7z
+*.rar
+*.zip
+
+# Texts
+*.doc
+*.docx
+*.htm
+*.html
+*.odt
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
